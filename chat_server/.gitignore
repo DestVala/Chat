@@ -1,0 +1,17 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+chat_smm.iml
+.idea/
+target/
+*.iml
+.iml
+./target
+target
+chat_server.iml

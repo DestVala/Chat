@@ -1,0 +1,3 @@
+Two project in one repository:
+1) Client desktop app - Java, JavaFX, TCP Client, Http Apache
+2) Server - Java, Spring (Boot; Repository; Core), TCP server, REST api
